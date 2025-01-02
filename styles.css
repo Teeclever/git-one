@@ -2,5 +2,6 @@
     margin: 0;
     padding: auto;
     box-sizing: border-box;
+    font-size: 22px;
     font-family: 'Courier New', Courier, monospace;
 }
